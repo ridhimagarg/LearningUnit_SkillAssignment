@@ -33,6 +33,8 @@ At the end of this file, you can input the new text description and see the skil
 
 For ease you can also directly use colab notebook for checking the results and approach - [link](https://colab.research.google.com/drive/1_SUG1TjA_WS9h6QX78qmml6e8cPC7_-V?usp=sharing)
 
+**Caution: while using the colab, you have to load the dataset using the files section in the left hand side.**
+
 * **[app.py](data_processing.py)** - *It contains the simple app build using streamlit for using the build model*
 
 Some glimpse of app -:
